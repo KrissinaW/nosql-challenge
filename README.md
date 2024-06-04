@@ -1,7 +1,7 @@
 # nosql-challenge
- 12 Challenge
+Module 12 Challenge
 
-Module![restaurant-front-beautiful-building-facade-with-awning-greenery_176411-5877](https://github.com/KrissinaW/nosql-challenge/assets/162597320/5510b993-f4d6-4a12-8f92-2f5e957dd0f2)
+![restaurant-front-beautiful-building-facade-with-awning-greenery_176411-5877](https://github.com/KrissinaW/nosql-challenge/assets/162597320/5510b993-f4d6-4a12-8f92-2f5e957dd0f2)
 
 
 # **Overview**
