@@ -60,7 +60,7 @@ Setup:
 
 - Use NoSQL_analysis_starter.ipynb for this section.
 
-  * Hygiene Score of 20:
+  *Hygiene Score of 20:
 
 - Find establishments with a hygiene score of 20.
   
