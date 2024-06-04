@@ -95,44 +95,44 @@ Setup:
 
 **Part 1:** Database and Jupyter Notebook Set Up
 
-Include the mongoimport command text in a markdown cell.
+* Include the mongoimport command text in a markdown cell.
 
-Ensure the establishments.json is imported correctly.
+* Ensure the establishments.json is imported correctly.
 
-Database and collection are named correctly.
+* Database and collection are named correctly.
 
-Libraries imported and Mongo Client created.
+* Libraries imported and Mongo Client created.
 
-Database and collection listed correctly.
+* Database and collection listed correctly.
 
-find_one and pprint used to display one document.
+* find_one and pprint used to display one document.
 
-establishments collection assigned to a variable.
+* establishments collection assigned to a variable.
 
 **Part 2:** Update the Database
 
-Insert "Penang Flavours" data correctly.
+* Insert "Penang Flavours" data correctly.
 
-Query and update BusinessTypeID for the new restaurant.
+* Query and update BusinessTypeID for the new restaurant.
 
-Delete documents with "Dover" as LocalAuthorityName.
+* Delete documents with "Dover" as LocalAuthorityName.
 
-Perform count_documents before and after deletion.
+* Perform count_documents before and after deletion.
 
-Convert latitude, longitude, and RatingValue to correct data types.
+* Convert latitude, longitude, and RatingValue to correct data types.
 
 **Part 3:** Exploratory Analysis
 
-Correct queries and counts for each question.
+* Correct queries and counts for each question.
 
-Proper use of pprint and conversion to Pandas DataFrames.
+* Proper use of pprint and conversion to Pandas DataFrames.
 
-Correct aggregation pipeline and sorting for the final question.
+* Correct aggregation pipeline and sorting for the final question.
 
-Deployment and Submission
+* Deployment and Submission
 
-Submit a link to a GitHub repository containing your files.
+* Submit a link to a GitHub repository containing your files.
 
-Use the command line to add files to the repository.
+* Use the command line to add files to the repository.
 
-Include appropriate commit messages.
+* Include appropriate commit messages.
