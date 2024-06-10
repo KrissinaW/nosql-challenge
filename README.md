@@ -8,7 +8,9 @@ Module 12 Challenge
 
 The UK Food Standards Agency evaluates various establishments across the United Kingdom, assigning them food hygiene ratings. You have been contracted by Eat Safe, Love, a food magazine, to analyze these ratings to help their journalists and food critics decide where to focus future articles.
 
-# **Part 1**: [Database and Jupyter Notebook Set Up](NoSQL_setup_complete.ipynb)
+# **Part 1**: Database and Jupyter Notebook Set Up
+
+[Database and Jupyter Notebook Set Up](NoSQL_setup_complete.ipynb)
 
 - Use NoSQL_setup_starter.ipynb for this section.
 
@@ -95,7 +97,7 @@ Setup:
 
 # **Requirements**
 
-**Part 1:** Database and Jupyter Notebook Set Up
+**Part 1:** [Database and Jupyter Notebook Set Up](NoSQL_setup_complete.ipynb)
 
 * Include the mongoimport command text in a markdown cell.
 
