@@ -58,6 +58,8 @@ Setup:
 
 #  **Part 3**: Exploratory Analysis
 
+[Exploratory Analysis] (NoSQL_analysis_complete.ipynb)
+
 - Use NoSQL_analysis_starter.ipynb for this section.
 
   *Hygiene Score of 20:
@@ -121,7 +123,7 @@ Setup:
 
 * Convert latitude, longitude, and RatingValue to correct data types.
 
-**Part 3:** (Exploratory Analysis[)NoSQL_analysis_complete.ipynb]
+**Part 3:** [Exploratory Analysis] (NoSQL_analysis_complete.ipynb)
 
 * Correct queries and counts for each question.
 
