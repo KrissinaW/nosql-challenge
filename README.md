@@ -121,7 +121,7 @@ Setup:
 
 * Convert latitude, longitude, and RatingValue to correct data types.
 
-**Part 3:** Exploratory Analysis
+**Part 3:** (Exploratory Analysis[)NoSQL_analysis_complete.ipynb]
 
 * Correct queries and counts for each question.
 
